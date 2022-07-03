@@ -1,12 +1,10 @@
-# Matching Image
+# Matching Image with OPEN CV
 
 _Identificar un objeto de una imagen dentro de otra imagen_
 
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
@@ -19,6 +17,7 @@ Libreria OPEN VC
 IDE/Editor
 
 ```
+
 
 ### Instalación 🔧
 
@@ -39,10 +38,10 @@ _Intenamos encontrar el patron de la imagen Imagen 1 dentro de la imagen 2_
 <img src="/circuito.jpg" alt="imagen-a" width="300px">
 
 _Imagen 2_
-<img src="/tarjeta.jpg" alt="imagen-a" width="300px">
+<img src="/tarjeta.jpg" alt="imagen-2" width="300px">
 
 _Una vez corremos el archivo principal main.py este sera el resultado_
-<img src="/lectortarjeta.png" alt="imagen-a" width="300px">
+<img src="/lectortarjeta.png" alt="imagen-resultado" width="300px">
 
 
 ## Construido con 🛠️
